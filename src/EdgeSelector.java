@@ -14,8 +14,8 @@ public class EdgeSelector {
 		rejectMin = 0.9 * fromNetID;
 		rejectLimit = rejectMin + 0.01;
 		
-		System.out.println("RejectMin: " + rejectMin);
-		System.out.println("RejectLimit: " + rejectLimit);
+		//System.out.println("RejectMin: " + rejectMin);
+		//System.out.println("RejectLimit: " + rejectLimit);
 		
 		processEdges("data/ouredges.txt");
 		
