@@ -1,0 +1,11 @@
+#bin
+bin/*
+
+#eclipse files
+.classpath
+.project
+
+#data you should put blocks.txt and edges.txt in your code
+data/*.txt
+
+
